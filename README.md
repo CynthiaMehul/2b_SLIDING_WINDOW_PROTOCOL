@@ -11,10 +11,9 @@ To write a python program for Implementation of sliding Window Protocol.
 6. Stop the Program
 ## PROGRAM
 ### Server
+Name: Cynthia Mehul
+Reg no: 212223240020
 ```
-/*Name: Cynthia Mehul
-Reg no: 212223240020*/
-
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
