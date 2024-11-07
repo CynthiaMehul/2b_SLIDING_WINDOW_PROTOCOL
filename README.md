@@ -43,10 +43,11 @@ while True:
  s.send("acknowledgement recived from the server".encode())
 ```
 ## OUPUT
-### Client
-![320813765-68e67df6-3f82-449c-8159-c2f81e6b304f](https://github.com/22002525karthikeyan/2b_SLIDING_WINDOW_PROTOCOL/assets/118708040/7bcba08d-715d-417c-b8ab-fe584727e089)
+## Client
+![image](https://github.com/user-attachments/assets/699b4c2c-d543-4c02-9adb-14308147419b)
+
 ### Server
-![320813914-82d9e11a-fb40-49c9-a9ea-44f7aa5d9ed0](https://github.com/22002525karthikeyan/2b_SLIDING_WINDOW_PROTOCOL/assets/118708040/d81a1f40-2d87-49c6-b196-e4cdf9c4a792)
+![image](https://github.com/user-attachments/assets/ecf2f3e2-087d-4e8d-aeab-5c6eeff02936)
 
 
 ## RESULT
